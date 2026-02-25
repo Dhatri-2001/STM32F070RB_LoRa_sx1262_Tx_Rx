@@ -1,0 +1,4 @@
+../Core/Src/sx126x_hal.c:16:21:sx126x_hal_reset	16	static
+../Core/Src/sx126x_hal.c:33:21:sx126x_hal_wakeup	24	static
+../Core/Src/sx126x_hal.c:58:21:sx126x_hal_write	120	dynamic
+../Core/Src/sx126x_hal.c:95:21:sx126x_hal_read	120	dynamic
